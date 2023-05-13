@@ -1,0 +1,11 @@
+Pentru deschiderea, citirea, scrierea si inchiderea fisierelor este recomandat sa fie folosite functiile
+puse la dispozitie de kernelul sistemului de operare: open, read, write si close.
+
+Calculați pentru fiecare linie media aritmetică a numerelor de pe acea linie.
+Rezultatul va fi afișat într-un fișier al cărui nume va fi dat programului în al doilea parametru,
+câte un număr pe fiecare linie:
+pe prima linia, numărul cerut corespunzător primei linii din fișier,
+pe a doua linie, numărul cerut corespunzător celei de-a doua linii din fișier,
+și așa mai departe.
+Dacă un număr de afișat nu este întreg, atunci va fi afișată partea întreagă a acestuia.
+Validați că fișierul dat în prim parametru poate fi deschis.

@@ -1,0 +1,15 @@
+GREP
+Trebuie folosit utilitarul grep, pentru procesarea informatiilor/ pentru a obtine rezultatul cerintei.
+Nu pot fi folosite utilizaterele sed si awk.
+
+Se dă ca parametru un număr x.
+Afișați la ieșirea standard câte linii care conțin cel puțin un număr format din x cifre există în fișierul dat ca prim parametru.
+
+
+
+SED
+Trebuie folosit utilitarul sed pentru procesarea informatiilor/ pentru a obtine rezultatul cerintei.
+Nu pot fi folosite utilitarele grep si awk.
+
+Modificati fișierul astfel încât toate numerele să fie separate prin virgulă.
+Nu se va afișa nimic la ieșirea standard

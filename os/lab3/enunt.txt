@@ -1,0 +1,3 @@
+NU pot fi folosite utilitarele grep, sed, awk.
+
+Se cere să se afișeze la ieșirea standard suma tuturor numerelor din fișierul dat ca parametru.

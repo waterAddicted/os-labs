@@ -1,0 +1,10 @@
+Trebuie folosit utilizatorul awk pentru procesarea informatiilor / pentru a obtine rezultatul cerintei.
+Nu vor fi acceptate temele care folosesc awk doar pentru afisare.
+Nu pot fi folosite utilitarele grep si sed.
+
+Calculați pentru fiecare linie media aritmetică a numerelor de pe acea linie.
+Rezultatul va fi afișat la ieșirea standard, câte un număr pe fiecare linie:
+pe prima linia, numărul cerut corespunzător primei linii din fisier,
+pe a doua linie, numărul cerut corespunzător celei de-a doua linii din fisier,
+și așa mai departe.
+Dacă un număr de afișat nu este întreg, atunci va fi afișată partea întreagă a acestuia
